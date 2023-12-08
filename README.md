@@ -5,7 +5,6 @@ This is a fork of the Rolel's (Rom1) DSBClone project, which continued a Proof O
 # Historical background
 
 1992: SEGA Model 1 and Model 2 games PCB hasn't integrated sound boards. The "Model 1 sound Board" was used to produce sounds and its optionnal board for musics. The music is stored in maskroms specific to each game. It is a card separate from the main stack of the game.
-* First version (DSB1):
   * Virtua Fighter (Model 1)
   * Virtua Racing (Model 1)
   * Wing Wars (Model 1)
