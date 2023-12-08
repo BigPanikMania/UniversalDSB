@@ -18,12 +18,12 @@ SEGA also use the "Model 1 sound board" (without optionnal board) for BMG (BackG
   * Sega Rally Deluxe
   * Manx TT Deluxe
 
-1993: SEGA digital sound cards (DSB1) work on the same principle and are dedicated to playing music on many SEGA games:  
+1993: SEGA digital sound Board (DSB1) work on the same principle and are dedicated to playing music on many SEGA games:  
   * Star Wars Arcade (Model 1) for musics
   * Sega Touring Cars (Model 2C)
   * Scud Race / Super GT (Model 3)
 
-1996: SEGA digital sound cards 2 was able to play better quality musics on:
+1996: SEGA digital sound Board 2 (DSB2) was able to play better quality musics on:
   * Daytona 2 (Model 3)
   * Lost World (Model 3)
   * Sega Rally 2 (Model 3)
