@@ -1,42 +1,36 @@
-# DSB Clone
-This is a replacement board for the SEGA Digital Sound Boards 1 and 2 used on several SEGA arcade games.
-
-![Assembled DSBClone board](Docs/assets/assembled-board.jpg)
-
+# Universal DSB
+This is a replacement board for the SEGA Model 1 sound Board, Digital Sound Boards 1 and 2 used on several SEGA arcade games.
+This is a fork of the Rolel's (Rom1) DSBClone project, which continued a Proof Of Concept that I had done in 2009.
 
 # Historical background
 
-The SEGA Digital Sound Boards 1 and 2 are dedicated to playing music (the BGMs) on several SEGA games. The music is stored in maskroms specific to each game. It is a card separate from the main stack of the game, sometimes located in its own cage.
-
-They bear the following references: *837-10084 DIGITAL AUDIO BD SEGA 1993, 171-6614B PC BD, Sticker: 837-12941* and *837-12273 DIGITAL SOUND BD 2 SEGA 1995, 171-7165D PC BD, Sticker: 837-12273-92, Sticker: 837-13376*. These original cards are not very reliable and become difficult to find at a reasonable price.
-
-
-They were used on the following games:
-
+1992: SEGA Model 1 and Model 2 games PCB hasn't integrated sound boards. The "Model 1 sound Board" was used to produce sounds and its optionnal board for musics. The music is stored in maskroms specific to each game. It is a card separate from the main stack of the game.
 * First version (DSB1):
-  * Daytona USA
-  * Desert Tank
-  * Manx TT Deluxe
-  * Scud Race / Super GT (Model 3 Step 1.5)
+  * Virtua Fighter (Model 1)
+  * Virtua Racing (Model 1)
+  * Wing Wars (Model 1)
+  * Star Wars Arcade (Model 1) for speech and effects
+  * Daytona USA (Model 2)
+  * Desert Tank (Model 2)
+  * Virtua Cop (Model 2)
+
+SEGA also use the "Model 1 sound board" (without optionnal board) for BMG (BackGround Musics) on:    
   * Sega Rally Deluxe
-  * Sega Touring Cars (Model 2C CRX)
-  * Star Wars Arcade (Model 1)
-  * Virtua Cop
-  * Virtua Fighter
-  * Virtua Racing
-  * Wing Wars
+  * Manx TT Deluxe
 
-*Please note that Daytona USA, Virtua Racing, Virtua Fighter, Wing War & Star Wars Arcade use DSB1 with an addon board in charge of playing sounds. The DSBclone doesn't handle this. As a result I suggest you avoid clone for such games and **DSB1 support is disabled by default in source code**.*
+1993: SEGA digital sound cards (DSB1) work on the same principle and are dedicated to playing music on many SEGA games:  
+  * Star Wars Arcade (Model 1) for musics
+  * Sega Touring Cars (Model 2C)
+  * Scud Race / Super GT (Model 3)
 
-* Second version (DSB2):
-  * Daytona 2
-  * Lost World
-  * Sega Rally 2
-  * Spikeout
-  * Spikeout FE
-  * Star Wars Trilogy
-  * Top Skater
-
+1996: SEGA digital sound cards 2 was able to play better quality musics on:
+  * Daytona 2 (Model 3)
+  * Lost World (Model 3)
+  * Sega Rally 2 (Model 3)
+  * Spikeout (Model 3)
+  * Spikeout FE (Model 3)
+  * Star Wars Trilogy (Model 3)
+  * Top Skater (Model 3)
 
 # Features
 
