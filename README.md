@@ -31,6 +31,28 @@ SEGA also use the "Model 1 sound board" (without optionnal board) for BMG (BackG
   * Star Wars Trilogy (Model 3)
   * Top Skater (Model 3)
 
+| Game                                  | SEGA Model       | ref                  | Model 1 Sound Board | Optionnal Board | DSB1      | DSB2         |
+| ------------------------------------- | ---------------- | -------------------- | ------------------- | --------------- | --------- | ------------ |
+|                                       |                  |                      | 837-8679            | 837-8680        | 837-10084 | 837-12273-92 |
+| Virtua Fighter                        | Model 1          | 837-8679+837-8680    | JST                 | JST             |           |              |
+| Wing Wars                             | Model 1          | ?+837-8680           | JST                 | JST             |           |              |
+| Virtua Racing                         | Model 1          | 837-8939+837-8680    | JST                 | JST             |           |              |
+| Star Wars Arcade                      | Model 1          | ? +837-8680+37-10620 | JST                 | JST             | JST       |              |
+| Daytona USA                           | Model 2          | 837-10652+837-8680   | JST                 | JST             |           |              |
+| Desert Tank                           | Model 2          | ?                    | JST                 | JST             |           |              |
+| Virtua Cop                            | Model 2          | 837-11129            | JST                 | JST             |           |              |
+| Manx TT Deluxe                        | Model 2B CRX     | 837-12779            | RCA+JST             |                 |           |              |
+| Sega Rally Deluxe                     | Model 2B CRX     | ?                    | RCA+JST             |                 |           |              |
+| Sega Touring Cars                     | Model 2C CRX     | 837-12784            |                     |                 | JST       |              |
+| Scud Race / Super GT                  | Model 3 Step 1.5 | 837-12941            |                     |                 | JST       |              |
+| Top Skater                            | Model 3 Step 2   | 837-13083            |                     |                 |           | JST          |
+| Sega Rally 2                          | Model 3 Step 2   | 837-13376            |                     |                 |           | JST          |
+| Daytona USA 2                         | Model 3 Step 2   | 837-13429            |                     |                 |           | JST + JST    |
+| Spikeout                              | Model 3 Step 2   | 837-13594            |                     |                 |           | JST          |
+| Spikeout FE                           | Model 3 Step 2   | 837-13594            |                     |                 |           | JST          |
+| Star Wars Trilogy                     | Model 3 Step 2   | 837-13602            |                     |                 |           | JST          |
+| The Lost World: Jurassic Park Special | Model 3 Step 2   | ?                    |                     |                 |           | ?            |
+
 # Features
 
 * Playback of MP3 and WAV files stored on a microSD card
