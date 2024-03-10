@@ -4,11 +4,11 @@ This is a fork of the Rolel's (Rom1) DSBClone project, which continued a Proof O
 
 # Historical background
 
-1992: SEGA Model 1 and Model 2 games PCB hasn't integrated sound boards. The "Model 1 sound Board" was used to produce sounds and its optionnal board for musics. The music is stored in maskroms specific to each game. It is a card separate from the main stack of the game.
+1992: SEGA Model 1 and Model 2 games PCB hasn't integrated sound boards. The "Model 1 sound Board" was used to produce background musics and its optionnal board for voices and sound effects. The music is generate by the 68000 processor with samples stored in maskroms. It is a card separate from the main stack of the game.
   * Virtua Fighter (Model 1)
   * Virtua Racing (Model 1)
   * Wing Wars (Model 1)
-  * Star Wars Arcade (Model 1) for speech and effects
+  * Star Wars Arcade (Model 1) for voices and sound effects
   * Daytona USA (Model 2)
   * Desert Tank (Model 2)
   * Virtua Cop (Model 2)
@@ -23,13 +23,13 @@ SEGA also use the "Model 1 sound board" (without optionnal board) for BMG (BackG
   * Scud Race / Super GT (Model 3)
 
 1996: SEGA digital sound Board 2 (DSB2) was able to play better quality musics on:
-  * Daytona 2 (Model 3)
-  * Lost World (Model 3)
+  * Daytona 2 (Model 3) (2 outputs, Front and Rear)
   * Sega Rally 2 (Model 3)
   * Spikeout (Model 3)
   * Spikeout FE (Model 3)
   * Star Wars Trilogy (Model 3)
   * Top Skater (Model 3)
+  * The Lost World: Jurassic Park Special (Model 3) very specific/rare cabinet
 
 | Game                                  | SEGA Model       | ref                  | Model 1 Sound Board | Optionnal Board | DSB1      | DSB2         |
 | ------------------------------------- | ---------------- | -------------------- | ------------------- | --------------- | --------- | ------------ |
