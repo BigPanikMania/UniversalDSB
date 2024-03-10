@@ -1,5 +1,5 @@
 # Universal DSB
-This is a replacement board for the SEGA Model 1 sound Board, Digital Sound Boards 1 and 2 used on several SEGA arcade games.
+This is a replacement board for the Digital Sound Boards 1 and 2 used on several SEGA arcade games. SEGA Model 1 sound Boards are NOT (yet?) supported.
 This is a fork of the Rolel's (Rom1) DSBClone project, which continued a Proof Of Concept that I had done in 2009.
 
 # Historical background
